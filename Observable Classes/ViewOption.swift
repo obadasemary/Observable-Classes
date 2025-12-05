@@ -102,7 +102,6 @@ enum ViewOption: CaseIterable, Identifiable, View {
                 .padding()
                 .background(.gray.opacity(0.5), in: .rect(cornerRadius: 10))
             Link("Nilcoalescing Blog", destination: URL(string: "https://nilcoalescing.com/blog/InitializingObservableClassesWithinTheSwiftUIHierarchy/")!)
-//                .font(.caption)
         }
             .padding()
         

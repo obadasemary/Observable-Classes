@@ -21,7 +21,7 @@ struct SeventhView: View {
             NavigationStack {
                 VStack(spacing: 30) {
                     ViewOption.seventh.descrView
-                    // FirstView Repeat
+                    // SecondView Repeat
                     Spacer()
                 }
                 .tint(tint)

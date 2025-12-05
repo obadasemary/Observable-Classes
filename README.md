@@ -1,6 +1,6 @@
-# Initializing @Observable classes within the SwiftUI hierarch
+# Initializing @Observable classes within the SwiftUI hierarchy
 
-![AppIcon128](images/AppIcon128.png) This is the starter project code for the video on anitializing @Observable classes within SwiftUI hierarchy
+![AppIcon128](images/AppIcon128.png) This is the starter project code for the video on anitializing @Observable classes within the SwiftUI hierarchy
 
 Release Date: January 11, 2026
 

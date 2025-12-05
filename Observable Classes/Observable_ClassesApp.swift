@@ -18,11 +18,9 @@ import SwiftUI
 
 @main
 struct Observable_ClassesApp: App {
-    @State private var dataModel = DataModel()
     var body: some Scene {
         WindowGroup {
             StartView()
-                .environment(dataModel)
         }
     }
 }

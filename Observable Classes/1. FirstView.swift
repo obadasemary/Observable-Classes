@@ -16,14 +16,6 @@
 
 import SwiftUI
 
-@Observable
-class DataModel {
-    var count = 0
-    init() {
-        print("DataModel initialized")
-    }
-}
-
 struct FirstView: View {
     var body: some View {
         VStack {
